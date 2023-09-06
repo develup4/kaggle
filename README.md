@@ -1,2 +1,2 @@
-# kaggle
-kaggle notebook and dataset repository
+# MLDL
+Notebook and dataset repository without kaggle contest
